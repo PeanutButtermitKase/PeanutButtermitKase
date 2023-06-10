@@ -1,5 +1,34 @@
 ### Hi there 👋
 
+<h1 align='center'>
+  Hi there 👋 I'm Nydia 👨‍💻
+</h1>
+
+<p align='center'>
+  Developing virtual reality tools
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/nydia-r-varela-rosales/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;  
+</p>
+
+
+
+<p align='center'>
+  💻 Tools that I use <br/><br/>
+  
+   
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+
+
 <!--
 **PeanutButtermitKase/PeanutButtermitKase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
